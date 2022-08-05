@@ -50,7 +50,7 @@ public class CreateTickets extends AppCompatActivity {
         createTicketsArrayList.add(createtickets3);
         CreateTickets createtickets4 = new CreateTickets( "0", "D");
         createTicketsArrayList.add(createtickets4);
-
+        //
     }
 
     public ArrayList<CreateTickets> getCreateTicketsArrayList() {
